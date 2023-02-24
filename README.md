@@ -3,6 +3,7 @@
 ## Description
 
 **A Simple To-Do App In Javascript**
+view : https://palankit-to-do.netlify.app/
 
 **The project structure is kinda like React and inspired by React style because we only have a `root` element in the HTML and everything else is injected by Javascript, basically Javascript has the responsibility of the DOM manipulation over the entire project**
 
